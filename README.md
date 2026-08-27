@@ -27,7 +27,7 @@
     }
     .hero-image {
       width: 100%;
-      height: 260px;
+      height: 280px;
       object-fit: cover;
       display: block;
     }
@@ -77,7 +77,7 @@
 <body>
   <div class="card">
     <img 
-      src="https://images.unsplash.com/photo-1611689342806-0863700ce1e4?auto=format&fit=crop&w=800&q=80" 
+      src="https://images.unsplash.com/photo-1579783902614-a3fb3927b675?auto=format&fit=crop&w=800&q=80" 
       alt="Peregrine Falcon" 
       class="hero-image"
     >
